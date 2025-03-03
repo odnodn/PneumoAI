@@ -32,3 +32,5 @@ Patient <-> Arzt <-> KI
 ## Beispiel
 ![image](https://github.com/user-attachments/assets/1e737bd7-c3fc-426a-b0a9-86300e9e3cf2)
 
+![image](https://github.com/user-attachments/assets/61bf60c5-ac53-4a0a-a835-fb661efd3661)
+
