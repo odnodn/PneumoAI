@@ -1,4 +1,4 @@
 # PneumoAI
 Pneumologisches Praxis-Management visuell
 
-`Asthma`
+`Asthma` `COPD` `ILD` `Lungenkarcinom` `LAE` `Schlafapnoe`
