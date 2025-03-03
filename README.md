@@ -3,6 +3,8 @@ Pneumologisches Praxis-Management visuell
 
 `Asthma` `COPD` `ILD` `Lungenkarzinom` `LAE` `Schlafapnoe`
 
+Patient <-> Arzt <-> KI
+
 # Technologien
 ## Frontend
 - React / Next.JS / TYpescript / HTML / CSS / Tailwind
