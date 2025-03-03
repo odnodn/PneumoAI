@@ -6,7 +6,7 @@ Pneumologisches Praxis-Management visuell
 # Technologien
 ## Frontend
 - React / Next.JS / TYpescript / HTML / CSS / Tailwind
-  - UI: MUI + others
+  - UI: `MUI` + others
   - State Management: `Zustand`
   - Form Management: `React Hook Form` + `Tanstack Query`
   - Tabular Data: `Material React Table`
