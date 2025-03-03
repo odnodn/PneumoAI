@@ -1,7 +1,7 @@
 # PneumoAI
 Pneumologisches Praxis-Management visuell
 
-`Asthma` `COPD` `ILD` `Lungenkarcinom` `LAE` `Schlafapnoe`
+`Asthma` `COPD` `ILD` `Lungenkarzinom` `LAE` `Schlafapnoe`
 
 # Technologien
 ## Frontend
