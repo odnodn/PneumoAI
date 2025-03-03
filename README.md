@@ -19,6 +19,6 @@ Pneumologisches Praxis-Management visuell
   - DB: `sqlite` , `PostgeSQL`
 - x
 ## AI
-- local LLM via Olama
+- local LLM via Ollama
 - RAG
 
