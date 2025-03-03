@@ -24,3 +24,11 @@ Patient <-> Arzt <-> KI
 - local LLM via Ollama
 - RAG
 
+# Model
+## Auszug
+![image](https://github.com/user-attachments/assets/189b25da-ed26-4aea-8f8d-18337948028d)
+
+# Screens
+## Beispiel
+![image](https://github.com/user-attachments/assets/1e737bd7-c3fc-426a-b0a9-86300e9e3cf2)
+
